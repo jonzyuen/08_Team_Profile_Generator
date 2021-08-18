@@ -1,0 +1,28 @@
+{
+  "name": "08_Team_Profile_Generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonzyuen/08_Team_Profile_Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonzyuen/08_Team_Profile_Generator/issues"
+  },
+  "homepage": "https://github.com/jonzyuen/08_Team_Profile_Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2",
+    "jest": "^27.0.6"
+  }
+}
