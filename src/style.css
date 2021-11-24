@@ -1,0 +1,20 @@
+header{
+  background-color: red;
+  color: white;
+}
+.card{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.3);
+}
+.title{
+ background-color: #004CFF;
+ color: white;
+}
+.name{
+  font-size: 24px;
+}
+.position{
+  font-size: 20px;
+}
+.content{
+  background-color: #ededed;
+}
